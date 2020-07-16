@@ -65,7 +65,7 @@ The provided file [`api.js`](src/utils/api.js) contains the methods to perform n
 
 * [`getAllDecks`](#getAllDecks)
 * [`saveDeckTitle`](#saveDeckTitle)
-* [`saveQuestion`](#savequestion)
+* [`addCardToDeck`](#addCardToDeck)
 * [`removeDeck`](#removeDeck)
 
 ### `getAllDecks`
