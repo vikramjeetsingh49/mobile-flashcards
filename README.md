@@ -54,6 +54,12 @@ Runs the app in the your connected device or simulator
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+### Usage
+
+* yarn ios -- (react-native run-ios) Build the iOS App (requires a MacOS computer).
+* yarn android -- (react-native run-android) Build the Android App.
+* yarn web -- (expo start:web) Run the website in your browser.
+
 ## Screens 
 ![Image of DeckList](https://github.com/vikramjeetsingh49/mobile-flashcards/blob/master/screens/decklist.png?raw=true)
 ![Image of NewDeck](https://github.com/vikramjeetsingh49/mobile-flashcards/blob/master/screens/newdeck.png?raw=true)
