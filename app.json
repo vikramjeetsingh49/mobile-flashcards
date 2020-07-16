@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "sdkVersion": "38.0.0",
+    "orientation": "portrait",
+    "name": "MobileFlashcards",
+    "description": "The best flash quiz game in the world.",
+    "slug": "mobileflashcards",
+    "version": "1.0",
+    "ios": {
+     "bundleIdentifier": "org.mobileflashcards.exp",
+     "buildNumber": "1.0.0"
+    },
+    "android": {
+     "package": "org.mobileflashcards.exp",
+     "versionCode": 1
+    }
+  }
+}
